@@ -4,9 +4,9 @@
 
 **Full-Stack Developer in Progress** | React • Node.js • Python • MongoDB
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-g-261666350/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rakesh1719@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/rakesh17g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mathan-kumar-97329a303)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mathankumarpalani2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/mathan527)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](file:///C:/Users/raki_/OneDrive/Desktop/Web%20Devolopment%20projects/4.3%20HTML%20Porfolio%20Project/index.html)
 
 </div>
