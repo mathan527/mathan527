@@ -4,7 +4,7 @@
 
 **Full-Stack Developer in Progress** | React • Node.js • Python • MongoDB
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mathan-kumar-97329a303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathan-kumar-97329a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mathankumarpalani2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/mathan527)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](file:///C:/Users/raki_/OneDrive/Desktop/Web%20Devolopment%20projects/4.3%20HTML%20Porfolio%20Project/index.html)
