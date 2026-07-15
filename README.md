@@ -1,7 +1,5 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0a0a0f&height=230&section=header&text=Mathan%20Kumar%20P&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%40%20SRMIST%20%7C%20Builder%20%7C%20Hackathon%20Competitor&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
-
 <table>
 <tr>
 <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Mathan Kumar — ASCII portrait" /></td>
